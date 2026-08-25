@@ -179,7 +179,7 @@ Detailed references are provided within the individual notebooks.
 ### Eman Koosehlar
 Researcher interested in bioinformatics, genomic data analysis
 
-- **[GitHub]https://github.com/Eman-Koosehlar/**
+- **[GitHub](https://github.com/Eman-Koosehlar/)**
 - **[LinkedIn](https://www.linkedin.com/in/eman-koosehlar-9a78b5175/)** 
 
 If you find an error or have a suggestion, feel free to open an issue or discussion.
